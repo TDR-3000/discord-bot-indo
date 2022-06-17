@@ -146,3 +146,4 @@ Currently available locales are:
 6. Push to the branch: `git push origin my-new-feature`
 7. Submit a pull request
 # musikbot
+# indo
