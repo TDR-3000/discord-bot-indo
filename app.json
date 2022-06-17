@@ -1,0 +1,7 @@
+{
+  "name": "IndolaxBot",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/eritislami/evobot",
+  "logo": "https://i.postimg.cc/bN2n43Qm/indolax-photos.jpg",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
